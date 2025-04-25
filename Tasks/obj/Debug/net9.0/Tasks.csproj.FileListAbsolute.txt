@@ -1,0 +1,14 @@
+C:\Users\UP2store\Desktop\dotnet\Tasks\bin\Debug\net9.0\Tasks.exe
+C:\Users\UP2store\Desktop\dotnet\Tasks\bin\Debug\net9.0\Tasks.deps.json
+C:\Users\UP2store\Desktop\dotnet\Tasks\bin\Debug\net9.0\Tasks.runtimeconfig.json
+C:\Users\UP2store\Desktop\dotnet\Tasks\bin\Debug\net9.0\Tasks.dll
+C:\Users\UP2store\Desktop\dotnet\Tasks\bin\Debug\net9.0\Tasks.pdb
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfo.cs
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.dll
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\refint\Tasks.dll
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.pdb
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\Tasks.genruntimeconfig.cache
+C:\Users\UP2store\Desktop\dotnet\Tasks\obj\Debug\net9.0\ref\Tasks.dll
