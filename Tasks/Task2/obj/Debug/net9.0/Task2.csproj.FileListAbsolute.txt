@@ -1,0 +1,15 @@
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/bin/Debug/net9.0/Task2
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/bin/Debug/net9.0/Task2.deps.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/bin/Debug/net9.0/Task2.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/bin/Debug/net9.0/Task2.pdb
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/refint/Task2.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.pdb
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/Task2/obj/Debug/net9.0/ref/Task2.dll
