@@ -1,0 +1,15 @@
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.AssemblyInfoInputs.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.AssemblyInfo.cs
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.csproj.CoreCompileInputs.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.sourcelink.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/bin/Debug/net9.0/ExamSystem
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/bin/Debug/net9.0/ExamSystem.deps.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/bin/Debug/net9.0/ExamSystem.runtimeconfig.json
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/bin/Debug/net9.0/ExamSystem.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/bin/Debug/net9.0/ExamSystem.pdb
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/refint/ExamSystem.dll
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.pdb
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ExamSystem.genruntimeconfig.cache
+/Users/zamar/Desktop/work/dotnet/dotnet-tasks/Tasks/ExamSystem/obj/Debug/net9.0/ref/ExamSystem.dll
